@@ -2,7 +2,7 @@
  MLS-YOLO: Remote Sensing Target Detection for Multi-Scale Craters
 
  
-Note: The code will be released in stages. The first module is now available, and the other two modules will be published after the paper is accepted.
+Note: The first module’s code has been released. The remaining modules and related work are currently being organized and will be gradually uploaded and merged into this branch.
 
 ![Fig2](https://github.com/user-attachments/assets/485003f7-3ec9-440d-8337-3e03dabfcf78)
 
